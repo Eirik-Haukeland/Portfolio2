@@ -1,7 +1,7 @@
 <script>
   import holidazeImg from './assets/holidaze-09-03-24.png'
   import ShopATonImg from './assets/shop-a-ton-2024-03-09.png'
-  import gotStoreImg from './assets/Got-store-2024-03-09.png'
+  import gotStoreImg from './assets/got-store-2024-03-09.png'
   import Card from './components/Card.svelte'
 
   const pagesInfo = [
