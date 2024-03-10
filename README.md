@@ -1,4 +1,4 @@
-[# Portfolio Page](https://github.com/Eirik-Haukeland/Portfolio2)
+# [Portfolio Page](https://github.com/Eirik-Haukeland/Portfolio2)
 
 [![image of the portfolio page running](./site-runnig-2024-03-10.png)](https://eirik-haukeland.github.io/Portfolio2/)
 
