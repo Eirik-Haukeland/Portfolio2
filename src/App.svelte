@@ -9,6 +9,7 @@
       imgSrc: holidazeImg,
       imgAlt: 'image of home page for "holidaze"',
       projectTitle: 'holidaze',
+      desc: 'holidaze is a site for booking hotells and other holiday venues',
       repoUrl: 'https://github.com/Eirik-Haukeland/ProjectExam2',
       liveUrl: 'https://main--ebhholidaze.netlify.app/',
     }, 
@@ -16,6 +17,7 @@
       imgSrc: gotStoreImg,
       imgAlt: 'image of home page to "Got Store"',
       projectTitle: 'Got Store',
+      desc: 'Got Store is a webshop',
       repoUrl: 'https://github.com/Eirik-Haukeland/front-end-frameworks-ca',
       liveUrl: 'https://main--astounding-kleicha-407922.netlify.app/',
     }, 
@@ -23,6 +25,7 @@
       imgSrc: ShopATonImg,
       imgAlt: 'this is a image of the home page for "Shop a Ton"',
       projectTitle: 'Shop a Ton',
+      desc: 'shop a ton is a auction site where you can by and sell.',
       repoUrl: 'https://github.com/Eirik-Haukeland/semester-project-2',
       liveUrl: 'https://eirik-haukeland.github.io/semester-project-2/',
     }, 
@@ -40,6 +43,7 @@
         imgSrc={page.imgSrc}
         imgAlt={page.imgAlt}
         projectTitle={page.projectTitle}
+        desc={page.desc}
         repoUrl={page.repoUrl}
         liveUrl={page.liveUrl} />
     {/each}
